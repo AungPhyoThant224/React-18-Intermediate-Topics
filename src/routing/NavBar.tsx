@@ -19,7 +19,7 @@ const NavBar = () => {
             </li>
             <li className="nav-item">
               <Link className="nav-link" to="/users">
-                f Users
+                Users
               </Link>
             </li>
           </ul>
